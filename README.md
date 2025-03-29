@@ -8,7 +8,7 @@
 ### 1️⃣ Clone Repository  
 ```bash
 git clone https://github.com/KishanKansagara/Demo.git
-cd YourProject
+cd Demo
 
 2️⃣ Install Dependencies
 npm install
