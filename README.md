@@ -1,5 +1,3 @@
-# Project Name  
-> Short description about your project (1-2 lines)
 
 ## 📌 Features  
 - [x] Feature 1 (e.g., User Registration with Email Verification)  
@@ -9,7 +7,7 @@
 ## 🚀 Installation & Setup  
 ### 1️⃣ Clone Repository  
 ```bash
-git clone https://github.com/YourUsername/YourProject.git
+git clone https://github.com/KishanKansagara/Demo.git
 cd YourProject
 
 2️⃣ Install Dependencies
